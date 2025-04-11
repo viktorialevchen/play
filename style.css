@@ -1,0 +1,138 @@
+.p{
+   
+    color: rgb(0, 0, 0);
+}
+.col-12{
+  
+    width: 60rem;
+    height: 45rem;
+}
+.row{
+    gap: 15px;
+}
+.col-8{
+    height: 41.3rem;
+}
+.col-3{
+    height: 41.3rem;
+  
+} 
+.col-16{
+
+    height: 36rem;
+    gap: 5px;
+}
+.p4{
+    height: 36.3rem;
+}
+.col-15{
+  
+    height: 2rem;
+    margin-top: 10px;
+}
+.col-17{
+   
+    width: 23.6rem;
+    height: 16rem;
+}
+.col-18{
+    background-color: black;
+    height: 19rem;
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.col{
+  
+    height: 2rem;
+}
+.contaner{
+    display: flex;
+    gap: 1rem;
+}
+.col-13{
+    height: 2rem; 
+    display: flex;
+    gap: 4rem; 
+}
+.col-5{
+    height: 2rem;
+    P{
+        color: aliceblue;
+    }
+}
+.for{
+    width: 23.6rem;
+    height: 16rem;
+
+}
+.button{
+    background-color: yellow;
+    width: 30rem;
+    height: 2rem; 
+}
+.butt2{
+    background-color: black;
+    color: aliceblue;
+    width: 30rem;
+    height: 2rem; 
+}
+
+.div{
+    width: 100px;
+    height: 100px;
+   
+}
+
+.div:hover{
+    background-color: red;
+}
+.imagesMiniFilter{
+    height: 5rem;
+    background-color:#ffff;
+}
+.imagesMiniFilter:hover{
+    filter: brightness(2);
+    height: 6rem;     
+}
+.images1{
+    height: 5rem;
+    background-color:#ffff;
+}
+.images1:hover{
+    filter: brightness(2);
+    height: 6rem;    
+}
+.images2{
+    height: 5rem;
+    background-color:#ede6e6fe;
+}
+.images2:hover{
+    filter: brightness(2);
+    height: 6rem;    
+}
+.images3{
+    height: 5rem;
+    background-color:#ede6e6fe;
+}
+.images3:hover{
+    filter: brightness(2);
+    height: 6rem;    
+}
+.images4{
+    height: 5rem;
+    background-color:#ede6e6fe;
+}
+.images4:hover{
+    filter: brightness(2);
+    height: 6rem;    
+}
+.images5{
+    height: 5rem;
+    background-color:#ede6e6fe;
+}
+.images5:hover{
+    filter: brightness(2);
+    height: 6rem;    
+}
